@@ -1,3 +1,7 @@
+body {
+  background: #000;
+}
+
 .flex-center {
   background: #000;
   display: -webkit-box;
